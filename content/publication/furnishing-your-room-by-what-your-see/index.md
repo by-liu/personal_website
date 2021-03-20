@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [constrastive learning, image retrieval]
 categories: []
 featured: true
 

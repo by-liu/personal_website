@@ -68,8 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning, computer vision and medical image analysis.
+I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning, computer vision, medical image analysis and recommendation.
 Currently, I am a Rearch Associate at ÉTS Montreal.
 Besides technical stuff, I have passion in reading, travelling and some social issues.
-If we also share common interests in these stuffs, you might refer to my non-technical [blog](https://espmoon.wordpress.com/).
-Don't hesitate to make a contact, should you have any questions.
+If we also share common interests in this stuff, you might refer to my non-technical [Blogs](https://espmoon.wordpress.com/).
