@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Bingyuan Liu
+# title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ÉTS Montreal
+  url: https://www.etsmtl.ca/en/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+#bio: My research interests include deep learning and computer vision
+#
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer vision
+- Deep learning
+- Medical image analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Institute of Automation, Chinese Academy of Sciences
+    year: 2015
+  - course: BSc in Information Science
+    institution: Zhejiang University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,23 +39,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:liubingyuan1988@gmail.com"
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/bing_bingyuan
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=jrWPhioAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/by-liu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+  link: https://www.linkedin.com/in/bingyuan-liu-03bb79107
+# - icon: youtube
+#   icon_pack: fab
+#   link: https://www.youtube.com/channel/UCVQAv0vXHjlQGABZjhKhrbQ/
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: media/resume.pdf
@@ -70,8 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning, computer vision and medical image analysis.
+Currently, I am a Rearch Associate at ÉTS Montreal.
+Besides technical stuff, I have passion in reading, travelling and some social issues.
+If we also share common interests in these stuffs, you might refer to my non-technical [blog](https://espmoon.wordpress.com/).
+Don't hesitate to make a contact, should you have any questions.
