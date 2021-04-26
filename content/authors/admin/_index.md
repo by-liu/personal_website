@@ -69,6 +69,5 @@ highlight_name: false
 ---
 
 I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning, computer vision, medical image analysis and recommendation.
-Currently, I am a Rearch Associate at ÉTS Montreal.
-Besides technical stuff, I have passion in reading, travelling and some social issues.
-If we also share common interests in this stuff, you might refer to my non-technical [Blogs](https://espmoon.wordpress.com/).
+Currently, I am a Research Associate at ÉTS Montreal.
+Besides technical stuff, I have passion in reading, travelling and sports.
