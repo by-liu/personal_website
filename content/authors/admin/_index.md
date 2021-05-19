@@ -40,9 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:liubingyuan1988@gmail.com"
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/bing_bingyuan
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=jrWPhioAAAAJ
@@ -52,6 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bingyuan-liu-03bb79107
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/bing_bingyuan
 # - icon: youtube
 #   icon_pack: fab
 #   link: https://www.youtube.com/channel/UCVQAv0vXHjlQGABZjhKhrbQ/
