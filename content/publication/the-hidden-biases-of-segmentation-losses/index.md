@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [semantic, segmentation, medical image segmentation]
+tags: [image segmentation, medical image segmentation]
 categories: []
 featured: true
 
@@ -36,8 +36,13 @@ links:
   icon_pack: ai
   icon: arxiv
 
+- name: code
+  url: https://github.com/by-liu/SegLossBias
+  icon_pack: fab
+  icon: github
+
 url_pdf: 
-url_code: https://github.com/by-liu/SegLossBias
+url_code:
 url_dataset:
 url_poster:
 url_project:

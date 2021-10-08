@@ -11,7 +11,7 @@ role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ÉTS Montreal
+- name: ETS Montreal
   url: https://www.etsmtl.ca/en/home
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,6 +68,12 @@ email: ""
 highlight_name: false
 ---
 
-I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning, computer vision, medical image analysis and recommendation.
-Currently, I am a Research Associate at ÉTS Montreal.
-Besides technical stuff, I have passion in reading, travelling and sports.
+I am a Research Associate at [ETS Montreal](https://www.etsmtl.ca/), Canada.
+I work at the [Laboratoire d’Imagerie, de Vision et d’Intelligence Artificielle (LIVIA)](https://liviamtl.ca/), under the supervision of [Prof. Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/) and [Prof. Jose Dolz](https://josedolz.github.io/).
+My current research field is Computer Vision and its application in Medical Image Analysis.
+
+Previously, I obtained advanced industrial experiences (R&D for real products), as I worked for several companies ([Coohom](https://www.coohom.com), Alibaba, etc.) from 2015 to 2020.
+I got my Ph.D at Institue of Automatoin, Chinese Academy of Sciences in 2015, where my supervisors were [Prof. Hanqing Lu](https://scholar.google.com/citations?user=lWtoko4AAAAJ&hl=en) and [Prof. Jing Liu](https://scholar.google.com/citations?user=sOI-S7oAAAAJ&hl=en).
+I received my BSc from Zhejiang University in 2010.
+
+Besides tech stuff, I have passion in sports, reading and travel.

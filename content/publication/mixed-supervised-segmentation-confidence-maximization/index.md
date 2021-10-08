@@ -1,13 +1,13 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Furnishing Your Room by What You See: An End-to-End Furniture Set Retrieval Framework with Rich Annotated Benchmark Dataset"
-authors: [Bingyuan Liu, Jiantao Zhang, Xiaoting Zhang, Wei Zhang, Chuanhui Yu, Yuan Zhou]
-date: 2019-11-21
+title: "Mixed-supervised segmentation: Confidence maximization helps knowledge distillation"
+authors: [Bingyuan Liu, Christian Desrosiers, Ismail Ben Ayed, Jose Dolz]
+date: 2021-09-24
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-21
+publishDate: 2021-10-07
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,28 +24,28 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [constrastive learning, image retrieval]
+tags: [image segmentation, medical image segmentation, knowledge distillation]
 categories: []
 featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: arxiv
-   url: https://arxiv.org/abs/1911.09299
-   icon_pack: ai
-   icon: arxiv
+- name: arxiv
+  url: https://arxiv.org/abs/2109.10902
+  icon_pack: ai
+  icon: arxiv
 
- - name: project
-   url: https://www.kujiale.com/festatic/furnitureSetRetrieval
-   icon_pack: fas
-   icon: link
+- name: code
+  url: https://github.com/josedolz/MSL-student-becomes-master
+  icon_pack: fab
+  icon: github
 
 url_pdf:
 url_code:
 url_dataset:
 url_poster:
-url_project: 
+url_project:
 url_slides:
 url_source:
 url_video:
@@ -55,7 +55,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
