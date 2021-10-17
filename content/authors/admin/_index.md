@@ -76,4 +76,4 @@ Previously, I obtained advanced industrial experiences (R&D for real products), 
 I got my Ph.D at Institue of Automatoin, Chinese Academy of Sciences in 2015, where my supervisors were [Prof. Hanqing Lu](https://scholar.google.com/citations?user=lWtoko4AAAAJ&hl=en) and [Prof. Jing Liu](https://scholar.google.com/citations?user=sOI-S7oAAAAJ&hl=en).
 I received my BSc from Zhejiang University in 2010.
 
-Besides tech stuff, I have passion in sports, reading and travel.
+Besides tech stuff, I have passion in sports, reading and [travel](travel).
