@@ -15,4 +15,4 @@ Here is the places I have lived or visited so far :
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1ss9SHX29a1AYb2zxVx3YdQfudHw4Udqu" width="800" height="640"></iframe>
 
-There are so many wonderful places I have not traveled yet. The next place may be Europe.
+There are so many wonderful places I have not traveled yet. The next one may be somewhere in Europe.

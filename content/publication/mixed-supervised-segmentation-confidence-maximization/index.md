@@ -37,7 +37,7 @@ links:
   icon: arxiv
 
 - name: code
-  url: https://github.com/josedolz/MSL-student-becomes-master
+  url: https://github.com/by-liu/MSL-student-becomes-master
   icon_pack: fab
   icon: github
 
