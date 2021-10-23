@@ -46,4 +46,4 @@ Here are our results on the three tasks:
 
 Thanks to all the collaborators.
 
-🚀 Our method and code will be publicly available soon.
+🚀 Our method and code will be publicly available soon. 🚀
