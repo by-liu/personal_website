@@ -24,7 +24,7 @@ abstract: "In spite of the dominant performances of deep neural networks, recent
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [calibration]
+tags: [calibration, image classification, deep learning]
 categories: []
 featured: true
 
