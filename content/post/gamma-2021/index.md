@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "🔥 Our results on MICCAI2021 GAMMA contest : Top 1 in two tasks "
+title: "Our results on MICCAI2021 GAMMA contest : Top 1 in two tasks "
 subtitle: ""
 summary: ""
 authors: []
@@ -37,6 +37,12 @@ Here are our results on the three tasks:
 
 *The total number of teams in this contest :* <span style="color:red"> *556* </span> .
 
+<!-- Thanks to all the collaborators. -->
+
+#### The collaborative paper of the top 10 teams in the challenge :
+
+[GAMMA Challenge: Glaucoma grAding from Multi-Modality imAges](/publication/gamma-challenge-2021/)
+
 {{< figure src="task2.jpeg" caption="The certificate for macular fovea localization task" numbered="true" >}}
 
 {{< figure src="task3.jpeg" caption="The certificate for optic disc/cup segmentatoin" numbered="true" >}}
@@ -44,6 +50,7 @@ Here are our results on the three tasks:
 {{< figure src="task1.jpeg" caption="The certificate of excellent award" numbered="true" >}}
 
 
-Thanks to all the collaborators.
 
-🚀 Our method and code will be publicly available soon. 🚀
+
+
+<!-- 🚀 Our method and code will be publicly available soon. 🚀 -->
