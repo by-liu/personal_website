@@ -31,6 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: arxiv
+  url: https://arxiv.org/abs/2202.06511
+  icon_pack: ai
+  icon: arxiv
 
 
 # - name: Follow
