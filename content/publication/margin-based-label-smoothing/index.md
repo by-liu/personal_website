@@ -31,6 +31,11 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: project
+  url: https://by-liu.github.io/MbLS
+  icon_pack: fas
+  icon: link
+
 - name: arxiv
   url: https://arxiv.org/abs/2111.15430
   icon_pack: ai
@@ -40,6 +45,11 @@ links:
   url: https://github.com/by-liu/MbLS
   icon_pack: fab
   icon: github
+
+- name: poster
+  url: https://by-liu.github.io/MbLS/static/media/mbls_cvpr2022_poster.pdf
+  icon_pack: fas
+  icon: file-pdf
 
 url_pdf:
 url_code:

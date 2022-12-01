@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Our work on calibrating deep neural networks is accepted at CVPR 2022"
+title: "One paper regarding segmentation with mixed supervision is accpeted at MedIA"
 subtitle: ""
 summary: ""
 authors: []
-tags: [calibration]
+tags: []
 categories: []
-date: 2022-03-11T12:45:34+08:00
-lastmod: 2022-03-11T12:45:34+08:00
+date: 2022-12-01T00:27:07-05:00
+lastmod: 2022-12-01T00:27:07-05:00
 featured: false
 draft: false
 
@@ -26,9 +26,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
 ---
 
-For details of this paper, please refer to : [The Devil is in the Margin: Margin-based Label Smoothing for Network Calibration](/publication/margin-based-label-smoothing).
-
-
+To check the paper, please refer to: [Segmentation with mixed supervision: Confidence maximization helps knowledge distillation](/publication/mixed-supervised-segmentation-confidence-maximization).
